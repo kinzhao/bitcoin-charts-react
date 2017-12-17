@@ -6,4 +6,4 @@
 
 *Note: it's using the PORT=3001 which is listed as a proxy in the client/package.json file.*
 
-<p align="center"><img src="https://user-images.githubusercontent.com/12203954/34078447-b010c060-e2e8-11e7-8df7-ac68cda145cb.gif"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/12203954/34078484-5b4e2350-e2e9-11e7-895c-884c10ce4e08.gif"></p>
