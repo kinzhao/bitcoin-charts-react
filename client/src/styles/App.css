@@ -1,0 +1,30 @@
+@media screen and (max-width: 647px) {
+    .stat-item {
+        margin: 15px auto;
+    }
+}
+
+@media screen and (min-width: 648px) {
+    .stat-item {
+        float: left;
+        margin: 8px 0 0 8px;
+    }
+}
+
+@media screen and (min-width: 648px) and (max-width: 1019px) {
+    .stat-container {
+        width: 625px;
+    }
+}
+
+@media screen and (min-width: 1020px) and (max-width: 1239px) {
+    .stat-container {
+        width: 932px;
+    }
+}
+
+@media screen and (min-width: 1240px) {
+    .stat-container {
+        width: 1240px;
+    }
+}
